@@ -13,7 +13,8 @@
 
     <TextBlock Text="To jest moje pierwsze okno!" 
     FontSize="32"
-    FontWeight="Bold"/>
+    FontWeight="Bold"
+    FontStyle="Italic"/>
 
 </Window>
 
